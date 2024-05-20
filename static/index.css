@@ -1,0 +1,305 @@
+/*----------FAVORITE----------*/
+#favorite {
+    display: flex;
+    position: absolute;
+
+    width: 300px; 
+    height: 700px;
+    
+    border: 5px outset darkorange;
+    background-color: skyblue;
+}
+
+.ffood{
+    display: flex;
+    position: absolute;
+    
+    width: 300px; 
+    height: 100px;
+    
+    border: 5px outset darkorange;
+    background-color: skyblue;
+
+    margin-top: -5px;  
+    margin-left: -5px;
+}
+
+.ffoodt{
+    color: darkorange; 
+    font-size: 35px;
+    font-family: impact, sans-serif;
+
+    margin-top: 25px;  
+    margin-left: 30px;
+}
+
+.fsong{
+    display: flex;
+    position: absolute;
+    
+    width: 300px; 
+    height: 100px;
+    
+    border: 5px outset darkorange;
+    background-color: skyblue;
+
+    margin-top: 100px;  
+    margin-left: -5px;
+}
+
+.fsongt{
+    color: darkorange; 
+    font-size: 35px;
+    font-family: impact, sans-serif;
+
+    margin-top: 25px;  
+    margin-left: 30px;
+}
+
+.fqoute{
+    display: flex;
+    position: absolute;
+    
+    width: 300px; 
+    height: 100px;
+    
+    border: 5px outset darkorange;
+    background-color: skyblue;
+
+    margin-top: 200px;  
+    margin-left: -5px;
+}
+
+.fqoutet{
+    color: darkorange; 
+    font-size: 35px;
+    font-family: impact, sans-serif;
+
+    margin-top: 25px;  
+    margin-left: 30px;
+}
+
+/*----------FOOD----------*/
+#food {
+    display: flex;
+    position: absolute;
+
+    width: 750px; 
+    height: 700px;
+    
+    border: 5px outset darkorange;
+    background-color: skyblue;
+
+    margin-left: 300px;
+}
+
+#foodBorder {
+    display: flex;
+    position: absolute;
+
+    width: 500px; 
+    height: 500px;
+    
+    border: 5px outset darkorange;
+    background-color: skyblue;
+
+    margin-top: 50px;  
+    margin-left: 120px;
+}
+
+.foodLabel{
+    display: flex;
+    position: absolute;
+  
+    margin-top: 75px; 
+    margin-left: 127px;
+  
+    font-family: impact, sans-serif;
+    color: darkorange;
+}
+
+#foodName{
+    display: flex;
+    position: absolute;
+  
+    width: 220px; 
+    height: 30px; 
+  
+    border-radius: 10px; 
+    background-color: white; 
+    border: 2px outset blue;
+  
+    margin-left: 120px; 
+    margin-top: 95px; 
+}
+
+.descriptionLabel{
+    display: flex;
+    position: absolute;
+  
+    margin-top: 150px; 
+    margin-left: 127px;
+  
+    font-family: impact, sans-serif;
+    color: darkorange;
+}
+
+#description{
+    display: flex;
+    position: absolute;
+  
+    width: 220px; 
+    height: 30px; 
+  
+    border-radius: 10px; 
+    background-color: white; 
+    border: 2px outset blue;
+  
+    margin-left: 120px; 
+    margin-top: 170px; 
+}
+
+.imageUrlLabel{
+    display: flex;
+    position: absolute;
+  
+    margin-top: 225px; 
+    margin-left: 127px;
+  
+    font-family: impact, sans-serif;
+    color: darkorange;
+}
+
+#imageUrl{
+    display: flex;
+    position: absolute;
+  
+    width: 220px; 
+    height: 30px; 
+  
+    border-radius: 10px; 
+    background-color: white; 
+    border: 2px outset blue;
+  
+    margin-left: 120px; 
+    margin-top: 245px; 
+}
+
+.rankLabel{
+    display: flex;
+    position: absolute;
+  
+    margin-top: 300px; 
+    margin-left: 127px;
+  
+    font-family: impact, sans-serif;
+    color: darkorange;
+}
+
+#rank{
+    display: flex;
+    position: absolute;
+  
+    width: 220px; 
+    height: 30px; 
+  
+    border-radius: 10px; 
+    background-color: white; 
+    border: 2px outset blue;
+  
+    margin-left: 120px; 
+    margin-top: 320px; 
+}
+
+.submit{
+    display: flex;
+    position: absolute;
+  
+    width: 220px; 
+    height: 30px; 
+  
+    border-radius: 10px; 
+    background-color: darkorange; 
+    border: 2px outset darkorange;
+  
+    margin-left: 120px; 
+    margin-top: 370px; 
+
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    justify-content: center; 
+    align-items: center; 
+}
+
+#ads {
+    display: flex;
+    position: absolute;
+
+    width: 400px; 
+    height: 700px;
+    
+    border: 5px outset darkorange;
+    background-color: skyblue;
+
+    margin-left: 1050px;
+}
+
+.ticket{
+    color: darkorange; 
+    font-size: 30px;
+    font-family: impact, sans-serif;
+
+    margin-top: 25px;  
+    margin-left: 30px;
+}
+
+.ads1 {
+    display: flex;
+    position: absolute;
+
+    width: 300px; 
+    height: auto; 
+
+    margin-top: 70px;  
+    margin-left: 40px;
+}
+
+.ads2 {
+    display: flex;
+    position: absolute;
+
+    width: 300px; 
+    height: auto; 
+
+    margin-top: 300px;  
+    margin-left: 40px;
+}
+
+.ads3 {
+    display: flex;
+    position: absolute;
+
+    width: 300px; 
+    height: auto; 
+
+    margin-top: 530px;  
+    margin-left: 40px;
+}
+
+.div.foodCard{
+    border: 2px solid darkorange;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#foodCards{
+    display: flex;
+    position: absolute;
+    border: 2px solid darkorange;
+    border-radius: 10px;
+    width: 1450px; 
+    height: 1000px; 
+    background-color: gray;
+    margin-top: 720px;
+}
